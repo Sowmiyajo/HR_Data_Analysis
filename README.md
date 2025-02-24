@@ -1,2 +1,15 @@
 # HR_Data_Analysis
- This project uses Power BI to analyze HR data, providing insights into employee performance, retention, hiring trends, and satisfaction. It includes interactive dashboards to track metrics like attrition rates, demographics, and productivity, helping HR teams make data-driven decisions for better workforce management.
+This project leverages Power BI to analyze and visualize key HR metrics, providing valuable insights into employee performance, attrition, retention, and hiring trends. The interactive dashboard allows HR professionals to monitor workforce data in real-time, helping to drive strategic decisions related to talent management and organizational growth.
+
+Key features include:
+- Employee Demographics: Visualize the distribution of employees by age, gender, department, and tenure.
+- Performance Analytics: Track and analyze employee performance, training outcomes, and productivity metrics.
+- Attrition and Retention: Monitor employee turnover, identify high-risk groups, and evaluate factors influencing retention.
+- Hiring Metrics: Assess recruitment performance with metrics like time-to-hire, cost-per-hire, and recruitment source effectiveness.
+- Employee Engagement: Measure employee satisfaction through survey results and feedback.
+- Interactive Dashboards: Drill down into specific departments, regions, and time periods to gain insights into trends and make informed HR decisions.
+
+Technologies Used:
+- Power BI for creating interactive visualizations and reports.
+- DAX for custom calculations, key performance indicators (KPIs), and dynamic reporting.
+- Power Query for cleaning, transforming, and importing HR data from various sources (Excel, CSV, SQL).
